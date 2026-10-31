@@ -1,0 +1,22 @@
+{
+  "wheel_id": 579,
+  "structure": "umbrella",
+  "slug": "ballaratmortgagebroker-154",
+  "project": "home-loans-ballarat-myths-1513d0dabee95b49a11fa6f96edaacd93bbe8",
+  "parent_t1_ref": "ballaratmortgagebroker-012",
+  "node_role": "buffer",
+  "money_target": "ballaratmortgagebroker.com.au",
+  "primary_kw": "home loans ballarat myths",
+  "intended_url": "https://sitesau.github.io/ballaratmortgagebroker-154/",
+  "tier": "T2",
+  "writeback_nonce": "a6a74901af02fc82",
+  "links": [
+    {
+      "target_url": "https://home-loans-ballarat-ballaratmortgagebroker-012-201c13.gitlab.io/",
+      "anchor": "Home Loans Ballarat: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
